@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T12:20:13.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="IYGJ10Xj5J6wm9cf784R" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-01T12:25:57.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="J1nsdVUqJZAihcP9nFeH" version="14.4.3" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
-    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="526" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="2a0f93b5c73ef8e7-18" value="&lt;h1&gt;申请&lt;/h1&gt;&lt;p style=&quot;text-align: left&quot;&gt;用户联系DDPAI，DDPAI确认需返厂维修，指导用户在公众号端申请售后&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="220" y="139" width="160" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-19" value="&lt;h1&gt;通过申请&lt;/h1&gt;&lt;p&gt;&lt;ol&gt;&lt;li&gt;DDPAI在售后管理系统通过维修申请&lt;/li&gt;&lt;li&gt;并微信端通知用户&lt;/li&gt;&lt;/ol&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+        <mxCell id="2a0f93b5c73ef8e7-19" value="&lt;h1&gt;通过申请&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;DDPAI在售后管理系统通过维修申请&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;并微信端通知用户&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="401" y="254" width="160" height="77" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-20" value="&lt;h1&gt;填写信息&lt;/h1&gt;&lt;p style=&quot;text-align: left&quot;&gt;&lt;/p&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;用户收到发货通知后发货&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;填写物流单号&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
@@ -58,7 +58,7 @@
         <mxCell id="2a0f93b5c73ef8e7-22" value="&lt;h1&gt;工厂发货&lt;/h1&gt;&lt;p style=&quot;text-align: left&quot;&gt;&lt;/p&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;维修后发回&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;微信端同步通知用户物流信息&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="391" y="594" width="160" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-23" value="&lt;h1&gt;用户签收&lt;/h1&gt;&lt;p style=&quot;text-align: left&quot;&gt;用户签收设备，维修流程结束&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+        <mxCell id="2a0f93b5c73ef8e7-23" value="&lt;h1&gt;用户签收&lt;/h1&gt;&lt;p&gt;用户签收设备，维修流程结束&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="230" y="714" width="160" height="77" as="geometry" />
         </mxCell>
       </root>
